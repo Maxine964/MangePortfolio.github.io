@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 胥曼格
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xu Man Ge
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Man Ge
+last_name: Xu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,80 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Blending BioSciences for a Brighter Tomorrow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: " "
+    url: " "
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:mangexu964@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/facebook
+    url: https://www.facebook.com/profile.php?id=100010717188117&mibextid=kFxxJD
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/shiva964?igsh=Z3V1MzJhZWExYXdt&utm_source=qr
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Maxine964
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/mange-xu
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
-interests:
+
+Short-term career goals:
   - Artificial Intelligence
+Long-term career goals:
   - Computational Linguistics
-  - Information Retrieval
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSC in Biotechnology
+    institution: The University of Edinburgh
+    school_url: https://www.hnetyy.net/dep/78.html
+    school_logo: assets/media/logo.png
+    date_start: 2020-09-13
+    date_end: 2021-12-07
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Class of Award: Merit
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Programming for Life Science
+      - Molecular Modelling and Database Mining
+      - Metagenomics for industrial Biotechnology
+      - Stem Cells and Industry
+      - Vaccines and Molecular Therapies
+  - area: BSE in Biopharmaceutical
+    institution: Changsha University
+    school_url: https://www.hnetyy.net/dep/78.html
+    school_logo: assets/media/logo.png
+    date_start: 2015-09-01
+    date_end: 2019-06-20
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.7/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Microbiology
+      - Immunology
+      - Cell Engineering
+      - Gene Engineering
+      - Biopharmacy Technology
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Bioinformarics Analyst
+    company_name: Pediatrics Research Institute of Hunan, China
+    company_url: https://www.hnetyy.net/dep/78.html
+    company_logo: assets/media/logo.png
+    date_start: 2021-12-07
+    date_end: 2022-09-07
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Performed scRNA-Seq analysis for clinic samples of OS tumours to explore the cellular composition.
+      - Generated visualization results of plots and HTML reports based on scRNA-Seq data using Python and R in Linux system. 
+      - Explored the OS microenvironment and intratumor heterogeneity by analyzing the transcriptomic properties, regulators and dynamics of malignant cells.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -142,12 +130,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Mandarin
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
