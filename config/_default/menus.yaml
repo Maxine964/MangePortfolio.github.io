@@ -17,7 +17,7 @@ main:
     url: Volunteer/
     weight: 40
   - name: Learning
-    url: /#Learning
+    url: Learning/
     weight: 50
   - name: Testimonials
     url: /#Testimonials

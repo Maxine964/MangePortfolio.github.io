@@ -1,5 +1,6 @@
 ---
-title: Testimonials
+
+title: Continous Learning
 cms_exclude: true
 #url: talk
 
@@ -10,4 +11,5 @@ view: card
 image:
   caption: ''
   filename: ''
+
 ---
