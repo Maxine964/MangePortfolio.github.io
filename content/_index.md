@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: pic1.JPG
+          filename: pic5.JPG
           filters:
             brightness: 1.0
           size: cover
@@ -32,14 +32,15 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: ' My Career Goals'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about 
+  - block: markdown
+    content:
+      title: ' My Career Goals'
+      subtitle: A subtitle
+      text: Add your Section 2 content
     design:
       columns: '1'
   - block: collection
