@@ -58,3 +58,12 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+#front appearance
+appearance:
+  theme_default: system
+
+#icon
+extensions:
+  academicons:
+    enable: true

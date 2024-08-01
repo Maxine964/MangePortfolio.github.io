@@ -39,20 +39,10 @@ sections:
         Long-Term Goals:
     design:
       columns: 1
-  - block: Learning
-    id: talks
-    content:
-      title: Continus Learning
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: Volunteer
+   - block: collection
     id: papers
     content:
-      title: Volunteer Works
+      title: Featured Publications
       filters:
         folders:
           - publication
@@ -60,10 +50,30 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: Testimonials
-    id: Testimonials
+  - block: collection
     content:
-      title: How others see me
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+  - block: collection
+    id: news
+    content:
+      title: Recent News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -89,16 +99,6 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
-    content:
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
