@@ -11,7 +11,6 @@ design:
 # Page sections
 sections:
   - block: collection
-    id: testimonials
     content:
       title: How others see me
       subtitle: ''

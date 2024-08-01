@@ -1,5 +1,5 @@
 ---
-title: Hobbies
+title: 'Hobbies'
 summary: My Hobbies
 type: landing
 
