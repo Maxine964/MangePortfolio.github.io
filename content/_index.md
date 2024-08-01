@@ -39,7 +39,7 @@ sections:
         Short-Term Goals:
         Long-Term Goals:
     design:
-      columns: 2
+      columns: 1
 
   - block: Learning
     id: talks
