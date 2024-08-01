@@ -30,7 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+ 
+ - block: markdown
     content:
       title: 'Career Goals'
       subtitle: ''
@@ -38,11 +39,23 @@ sections:
         Short-Term Goals:
         Long-Term Goals:
     design:
-      columns: '1'
-  - block: collection
+      columns: 2
+
+  - block: Learning
+    id: talks
+    content:
+      title: Continus Learning
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+ 
+  - block: Volunteer
     id: papers
     content:
-      title: Featured Publications
+      title: Volunteer Works
       filters:
         folders:
           - publication
@@ -50,30 +63,11 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
+ 
+ - block: Testimonials
+    id: Testimonials
     content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
+      title: How others see me
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -99,7 +93,19 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
+ 
+ - block: collection
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+
+ - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
