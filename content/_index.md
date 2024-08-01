@@ -41,8 +41,6 @@ sections:
       title: ' Short-term Career Goals'
       subtitle: A subtitle
       text: Add your Section 2 content
-    design:
-      columns: '1'
   - block: collection
     id: Learning
     content:
