@@ -1,7 +1,11 @@
 ---
 
-title: Continous Learning
+title: 'Learning'
 cms_exclude: true
+design:
+  # Section spacing
+  spacing: '5rem'
+
 #url: talk
 
 # View
