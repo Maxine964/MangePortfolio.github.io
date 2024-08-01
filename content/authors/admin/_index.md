@@ -45,9 +45,11 @@ profiles:
     url: https://scholar.google.com/
 
 
-Career goals:
-  - Artificial Intelligence
-  - Computational Linguistics
+interests:
+  - NGS Data Analysis
+  - Stem Cell Therapy
+  - Genomics Immunology Oncology 
+  - Programming Languages
 
 
 education:
