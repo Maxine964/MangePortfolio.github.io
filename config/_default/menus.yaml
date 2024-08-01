@@ -14,7 +14,7 @@ main:
     url: projects/
     weight: 30
   - name: Volunteer
-    url: /#Volunteer
+    url: Volunteer/
     weight: 40
   - name: Learning
     url: /#Learning

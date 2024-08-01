@@ -32,43 +32,43 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: ' My Career Goals'
+      title: ' Long-term Career Goals'
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about 
   - block: markdown
     content:
-      title: ' My Career Goals'
+      title: ' Short-term Career Goals'
       subtitle: A subtitle
       text: Add your Section 2 content
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: Learning
     content:
-      title: Featured Publications
+      title: Continous Learning
       filters:
         folders:
-          - publication
+          - Learning
         featured_only: true
     design:
       view: article-grid
       columns: 2
   - block: collection
-    id: Publications
+    id: Learning
     content:
       title: Recent Publications
       text: ""
       filters:
         folders:
-          - publication
+          - Learning
         exclude_featured: false
     design:
       view: citation
   - block: collection
-    id: talks
+    id: Testimonials
     content:
-      title: Recent & Upcoming Talks
+      title: How others see me
       filters:
         folders:
           - event
