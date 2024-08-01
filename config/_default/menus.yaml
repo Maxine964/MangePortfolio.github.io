@@ -23,5 +23,5 @@ main:
     url: /#Testimonials
     weight: 60
   - name: Hobbies
-    url: Hobbies/
+    url: /#Hobbies
     weight: 70

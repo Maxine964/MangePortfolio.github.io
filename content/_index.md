@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: pic5.JPG
+          filename: pic1.JPG
           filters:
             brightness: 1.0
           size: cover
@@ -66,17 +66,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: Testimonials
-    content:
-      title: How others see me
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
+    id: Learning
     content:
       title: Recent News
       subtitle: ''
@@ -104,6 +94,16 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: collection
+    id: Testimonials
+    content:
+      title: How others see me
+      filters:
+        folders:
+          - Testimonials/example
+    design:
+      view: article-grid
+      columns: 1
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

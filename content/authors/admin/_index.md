@@ -99,29 +99,40 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Computational Skills
     items:
       - name: Python
-        description: 'xxx'
+        description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: HTML
         description: ''
         percent: 40
         icon: circle-stack
-      - name: Hiking
+      - name: Office
+        description: ''
+        percent: 40
+        icon: circle-stack     
+      
+  - name: Laboratory Skills
+    items:
+      - name: Single cell sequencing
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: 
+      - name: Cell Culture
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: qPCR Amplification
+        description: ''
+        percent: 80
+        icon: camera
+      - name: Gel Electrophoresis
         description: ''
         percent: 80
         icon: camera
