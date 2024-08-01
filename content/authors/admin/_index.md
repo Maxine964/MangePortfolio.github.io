@@ -36,18 +36,17 @@ profiles:
   - icon: brands/facebook
     url: https://www.facebook.com/profile.php?id=100010717188117&mibextid=kFxxJD
   - icon: brands/instagram
-    url: https://www.instagram.com/shiva964?igsh=Z3V1MzJhZWExYXdt&utm_source=qr
+    url: https://www.instagram.com/maxinexu964/
   - icon: brands/github
     url: https://github.com/Maxine964
   - icon: brands/linkedin
-    url: www.linkedin.com/in/mange-xu
+    url: https://www.linkedin.com/in/mange-xu/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
 
-Short-term career goals:
+Career goals:
   - Artificial Intelligence
-Long-term career goals:
   - Computational Linguistics
 
 
@@ -171,4 +170,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to Mange’s portfolio! I am a Bioinformatics Analyst with a background in biotechnology and biopharmaceuticals. Here, you can explore my detailed research projects, professional experience, and contributions to the scientific community. Additionally, discover more about my interests and activities beyond my academic work by exploring my social media profiles.
+
+Feel free to explore and reach out if you have any questions or collaboration ideas.
