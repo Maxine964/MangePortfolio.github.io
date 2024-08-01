@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Hobbies
+summary: My Hobbies
 type: landing
 
 cascade:
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: hobbies
     content:
-      title: Teaching
+      title: Hobbies
       filters:
         folders:
-          - teaching
+          - hobbies
     design:
       view: article-grid
       columns: 2
