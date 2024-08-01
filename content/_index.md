@@ -32,14 +32,17 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Career Goals'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
-        Short-Term Goals:
-        Long-Term Goals:
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+        Please reach out to collaborate 😃
     design:
-      columns: 1
-   - block: collection
+      columns: '1'
+  - block: collection
     id: papers
     content:
       title: Featured Publications
