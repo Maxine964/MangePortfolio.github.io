@@ -84,7 +84,7 @@ education:
       - Gene Engineering
       - Biopharmacy Technology
 work:
-  - position: Bioinformarics Analyst
+  - position: Bioinformatics Analyst
     company_name: Pediatrics Research Institute of Hunan, China
     company_url: https://www.hnetyy.net/dep/78.html
     company_logo: assets/media/logo.png
@@ -174,4 +174,4 @@ awards:
 
 Welcome to Mange’s portfolio! I am a Bioinformatics Analyst with a background in biotechnology and biopharmaceuticals. Here, you can explore my detailed research projects, professional experience, and contributions to the scientific community. Additionally, discover more about my interests and activities beyond my academic work by exploring my social media profiles.
 
-Feel free to explore and reach out if you have any questions or collaboration ideas.
+Feel free to explore and reach out if you have any questions or collaboration ideas.😃
