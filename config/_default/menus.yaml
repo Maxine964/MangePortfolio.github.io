@@ -14,13 +14,13 @@ main:
     url: projects/
     weight: 30
   - name: Volunteer
-    url: Volunteer/
+    url: volunteer/
     weight: 40
   - name: Learning
-    url: Learning/
+    url: learning/
     weight: 50
   - name: Testimonials
-    url: Testimonials/
+    url: testimonials/
     weight: 60
   - name: Hobbies
     url: hobbies/

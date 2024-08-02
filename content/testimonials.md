@@ -1,7 +1,7 @@
 ---
 
 
-title: 'Testimonials'
+title: 'testimonials'
 type: landing
 view: article-grid
 design:

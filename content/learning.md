@@ -1,6 +1,6 @@
 ---
 
-title: 'Learning'
+title: 'learning'
 cms_exclude: true
 design:
   # Section spacing
