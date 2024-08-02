@@ -104,51 +104,48 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: brands/python
       - name: R
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: solid/r
       - name: HTML
         description: ''
         percent: 40
-        icon: circle-stack
-      - name: Office
+        icon: brands/html5
+      - name: Linux
         description: ''
         percent: 40
-        icon: circle-stack     
+        icon: brands/linux    
       
   - name: Laboratory Skills
     items:
       - name: Single cell sequencing
         description: ''
         percent: 60
-        icon: 
+        icon: solid/bone
       - name: Cell Culture
         description: ''
         percent: 100
-        icon: cat
+        icon: solid/microscope
       - name: qPCR Amplification
         description: ''
         percent: 80
-        icon: camera
+        icon: solid/vial-virus
       - name: Gel Electrophoresis
         description: ''
         percent: 80
-        icon: camera
+        icon: solid/dna
 
 languages:
   - name: Mandarin
     percent: 100
   - name: English
-    percent: 75
+    percent: 85
+  - name: Japanese
+    percent: 25
   - name: French
-    percent: 15
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+    percent: 5
 
 ---
 
@@ -156,4 +153,4 @@ languages:
 
 Welcome to Mange’s portfolio! I am a Bioinformatics Analyst with a background in biotechnology and biopharmaceuticals. Here, you can explore my detailed research projects, professional experience, and contributions to the scientific community. Additionally, discover more about my interests and activities beyond my academic work by exploring my social media profiles.
 
-Feel free to explore and reach out if you have any questions or collaboration ideas.😃
+Feel free to explore and reach out if you have any questions or collaboration ideas 😃
