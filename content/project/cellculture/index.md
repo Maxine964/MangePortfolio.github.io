@@ -9,4 +9,4 @@ tags:
 
 This study cultured C2C12 muscle cells and observed growth with various concentrations of Rapamycin.
 
-<!--more-->
+
