@@ -1,13 +1,14 @@
 ---
 title: Data Visualization
-date: 2022-08-26
-url: uploads/code.pdf
+date: 2022-05-04
+url: MangePortfolio.github.io/static/uploads/code.pdf
 tags:
-  - Data Visualization
+  - R_Python
   - Single-cell RNA sequencing
 ---
 
-Use R and Python to process and analyze clinical data, including using Seurat to process gene expression data, identify DEGs, perform GO biological process enrichment analysis, perform single-cell CNV and clone analysis by inferCNV, etc.
+Use R and Python to process and analyze clinical data, including using Seurat to process gene expression data, identify DEGs, perform GO biological process enrichment analysis, perform single-cell CNV and clone analysis by inferCNV.
+
 
 
 <!--more-->
