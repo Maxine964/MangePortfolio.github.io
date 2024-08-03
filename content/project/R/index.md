@@ -1,5 +1,5 @@
 ---
-title: 
+title: Data Visualization
 date: 2022-08-26
 url: uploads/code.pdf
 tags:
