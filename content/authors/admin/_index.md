@@ -90,8 +90,8 @@ work:
     company_name: Pediatrics Research Institute of Hunan, China
     company_url: 'https://www.hnetyy.net/dep/78.html'
     company_logo: assets/media/logo.png
-    date_start: 2021-12-07
-    date_end: 2022-09-07
+    date_start: '2021-12-07'
+    date_end: '2022-09-07'
     summary: |2-
       Responsibilities include:
       - Performed scRNA-Seq analysis for clinic samples of OS tumours to explore the cellular composition.
