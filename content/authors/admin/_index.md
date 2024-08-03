@@ -59,7 +59,7 @@ education:
     institution: The University of Edinburgh
     school_url: https://www.ed.ac.uk/
     school_logo: assets/media/logo.png
-    date_start: 2020-09-13
+    date_start: 2022-09-13
     date_end: 2021-12-07
     summary: |
       Class of Award: Merit
