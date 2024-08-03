@@ -7,6 +7,7 @@ tags:
   - Single-cell RNA sequencing
 ---
 
-Use R or Python to process and analyze clinical data, including using the Read10×() function of the Seurat package to process gene expression data, identify differentially expressed genes (DEGs), use the compareCluster function of the clusterProfiler package to perform GO biological process enrichment analysis, use the inferCNV package to perform single-cell copy number variation (CNV) and clone analysis, and use the Monocle2 package to generate pseudo-time trajectories, etc.
+Use R and Python to process and analyze clinical data, including using Seurat to process gene expression data, identify DEGs, perform GO biological process enrichment analysis, perform single-cell CNV and clone analysis by inferCNV, etc.
+
 
 <!--more-->
