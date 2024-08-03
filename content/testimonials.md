@@ -20,7 +20,6 @@
       columns: '1'
       # Choose your content listing view - here we use the `showcase` view
       view: compact
-      # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+
 
 ---

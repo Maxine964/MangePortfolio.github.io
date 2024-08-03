@@ -1,5 +1,5 @@
 ---
-title: Guardians of the Ocean
+title: 🌎 Guardians of the Ocean
 date: 2017-11-11
 tags:
   - Clean Seas campaign

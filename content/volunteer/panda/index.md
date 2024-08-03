@@ -1,5 +1,5 @@
 ---
-title: Guardians of the Gentle Giants
+title: 🐼 Guardians of the Gentle Giants
 date: 2018-02-15
 tags:
   - Animal Welfare
