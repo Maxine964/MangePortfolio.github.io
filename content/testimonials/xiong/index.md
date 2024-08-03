@@ -4,9 +4,6 @@ summary: Senior Bioimformatics at Pediatrics Research Institute of Hunan
 date: 2022-09-07
 authors:
   - admin
-tags:
-  - Hugo Blox
-  - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
