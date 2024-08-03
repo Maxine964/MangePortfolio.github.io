@@ -57,7 +57,7 @@ interests:
 education:
   - area: MSC in Biotechnology
     institution: The University of Edinburgh
-    school_url: https://www.ed.ac.uk/
+    school_url: 'https://www.ed.ac.uk/'
     school_logo: assets/media/logo.png
     date_start: 2022-09-13
     date_end: 2021-12-07
@@ -72,7 +72,7 @@ education:
       - Vaccines and Molecular Therapies
   - area: BSE in Biopharmaceutical
     institution: Changsha University
-    school_url: https://www.ccsu.cn
+    school_url: 'https://www.ccsu.cn'
     school_logo: assets/media/logo.png
     date_start: 2015-09-01
     date_end: 2019-06-20
@@ -88,7 +88,7 @@ education:
 work:
   - position: Bioinformatics Analyst
     company_name: Pediatrics Research Institute of Hunan, China
-    company_url: https://www.hnetyy.net/dep/78.html
+    company_url: 'https://www.hnetyy.net/dep/78.html'
     company_logo: assets/media/logo.png
     date_start: 2021-12-07
     date_end: 2022-09-07
