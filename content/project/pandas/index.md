@@ -1,11 +1,10 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: 
+date: 2022-08-26
+url: uploads/code_SP.pdf
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Data Visualization
+  - Single-cell RNA sequencing
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
