@@ -1,12 +1,10 @@
 ---
-title: dive
-date: 2023-10-26
+title: Guardians of the Ocean
+date: 2017-11-11
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Clean Seas campaign
+  - UN Environment Programme
+  - Volunteer
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
-<!--more-->
+Since 2017, I have volunteered for the Clean Seas campaign, participating in underwater clean-ups during every dive to protect marine life. This experience has deepened my commitment to environmental conservation and inspired others to join the cause.

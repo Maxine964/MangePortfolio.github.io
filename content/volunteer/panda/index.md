@@ -1,12 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Guardians of the Gentle Giants
+date: 2018-2-18
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Animal Welfare
+  - Giant Panda Sanctuary
+  - Volunteer
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+ Volunteering at the Giant Panda Sanctuary in Chengdu involved preparing food, maintaining enclosures, and analyzing panda feces to monitor their health. This experience deepened my commitment to animal conservation and underscored the impact of dedicated care and compassion.
 
-<!--more-->

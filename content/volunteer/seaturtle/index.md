@@ -1,12 +1,12 @@
 ---
-title: sea turtle
-date: 2023-10-26
+title: Guardians of the Ocean
+date: 2016-10-05
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Animal welfare
+  - Sea Turtle
+  - Volunteer
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Volunteering at the Huizhou Sea Turtle National Nature Reserve involved cleaning breeding pools, administering medication, caring for baby turtles, and cleaning beaches. This experience highlighted the importance of marine conservation and the impact of maintaining a safe environment for sea turtles.
 
 <!--more-->
