@@ -1,5 +1,5 @@
 ---
- title: 'volunteer'
+ title: 'testimonials'
  type: landing
 
  design:
@@ -11,7 +11,7 @@
   - block: collection
     content:
       title: How others see me 
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I have worked on over the years.
       filters:
         folders:
           - testimonials
