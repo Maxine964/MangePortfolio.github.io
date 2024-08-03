@@ -1,6 +1,6 @@
 ---
 title: Guardians of the Gentle Giants
-date: 2018-2-18
+date: 2018-02-15
 tags:
   - Animal Welfare
   - Giant Panda Sanctuary

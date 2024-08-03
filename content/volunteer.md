@@ -11,7 +11,7 @@ sections:
   - block: collection
     content:
       title: Volunteer work
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Volunteering has allowed me to make a positive impact on the world, fostering personal growth and inspiring others to join in meaningful efforts.
       filters:
         folders:
           - volunteer
@@ -22,4 +22,5 @@ sections:
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
+
 ---
