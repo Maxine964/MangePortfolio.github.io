@@ -1,6 +1,6 @@
 ---
 
-title: 'learning'
+title: 'Continous Learning'
 cms_exclude: true
 design:
   # Section spacing
@@ -14,6 +14,6 @@ view: card
 # Optional cover image (relative to `assets/media/` folder).
 image:
   caption: ''
-  filename: ''
+  filename: 'IBM.png'
 
 ---
