@@ -133,7 +133,7 @@ skills:
       - name: qPCR Amplification
         description: ''
         percent: 80
-        icon: <i class="fa-solid fa-vial-virus"></i>
+        icon: dna
       - name: Gel Electrophoresis
         description: ''
         percent: 80
