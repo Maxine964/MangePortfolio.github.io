@@ -11,14 +11,12 @@
   - block: collection
     content:
       title: How others see me 
-      text: I have worked on over the years.
+      text: Voices of Praise: Colleagues, Professors, Leaders, and Friends Reflect on My Contributions
       filters:
         folders:
           - testimonials
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      # Choose your content listing view - here we use the `showcase` view
       view: compact
 
 

@@ -1,12 +1,11 @@
 ---
 title: Amanda Warr
-summary: BBSRC Discovery Fellow @ The University of Edinburgh
+summary: BBSRC Discovery Fellow at The University of Edinburgh
 date: 2021-08-08
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
+  - Testimonials
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
