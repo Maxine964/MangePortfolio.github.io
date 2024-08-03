@@ -10,8 +10,8 @@
  sections:
   - block: collection
     content:
-      title: How others see me 
-      text: Voices of Praise: Colleagues, Professors, Leaders, and Friends Reflect on My Contributions
+      title: Voices of Praise
+      text: Colleagues, Professors, Leaders, and Friends Reflect on My Contributions
       filters:
         folders:
           - testimonials
