@@ -1,4 +1,6 @@
 ---
+
+
 # Display name
 title: 胥曼格
 
@@ -127,15 +129,15 @@ skills:
       - name: Cell Culture
         description: ''
         percent: 100
-        icon: solid/microscope
+        icon:  <span class="fa-solid fa-microscope"> 
       - name: qPCR Amplification
         description: ''
         percent: 80
-        icon: solid/vial-virus
+        icon: <i class="fa-solid fa-vial-virus"></i>
       - name: Gel Electrophoresis
         description: ''
         percent: 80
-        icon: solid/dna
+        icon: < fa class="fa-solid fa-flask" >
 
 languages:
   - name: Mandarin
