@@ -1,5 +1,5 @@
 ---
-title: scikit-learn
+title: dive
 date: 2023-10-26
 tags:
   - Hugo
