@@ -1,6 +1,5 @@
 ---
-title: Data Visualization
-date: 2022-05-04
+title: Visualization of scRNA-sequencing Data
 url: MangePortfolio.github.io/static/uploads/code.pdf
 tags:
   - R_Python
